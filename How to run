@@ -1,0 +1,7 @@
+Generate png: python convertToPng_ITK.py /home/jabi/Desktop/Scripts/MI_Fully_Supervised/Data/ISLES_TRAINING /home/jabi/Desktop/Scripts/MI_Fully_Supervised/Data/ISLES_TRAINING_png
+
+visiali: mitk software -- fslview -- 3D slicer
+
+prepare training: rm -rf case_31_* case_32* case_33* case_34* case_35* case_60* case_61* case_62* case_63* case_64* case_65* case_90* case_91* case_92* case_93* case_93* case_94* case_95*
+
+
